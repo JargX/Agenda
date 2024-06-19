@@ -1,2 +1,2 @@
-# Agenda1
-Esto es para la práctica de Juan
+# Agenda
+Esto es una agenda para Node.JS con JavaScript
